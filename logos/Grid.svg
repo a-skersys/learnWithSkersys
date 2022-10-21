@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2500"
+   height="2500"
+   viewBox="0 0 1052 1052"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="logo2.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1417"
+     inkscape:window-height="743"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.0944"
+     inkscape:cx="511.68797"
+     inkscape:cy="364.7481"
+     inkscape:window-x="455"
+     inkscape:window-y="117"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="53.115429,375.30786"
+       orientation="0,1"
+       id="guide815"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="53.115429,656.69617"
+       orientation="1,0"
+       id="guide817"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="665.65204,656.69617"
+       orientation="1,0"
+       id="guide819"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1002.5774,39.239136"
+       orientation="1,0"
+       id="guide821"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="720.2362,354.99607"
+       orientation="1,0"
+       id="guide827"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1002.5774,320.62738"
+       orientation="0,1"
+       id="guide829"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="667.16522,992.76505"
+       orientation="0,1"
+       id="guide831"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     style="opacity:1;fill:#e76f51;fill-opacity:1;stroke:#ba3a1a;stroke-width:13.1718816;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.79527664;stroke-opacity:1;paint-order:normal"
+     id="rect822"
+     width="612.53662"
+     height="281.38828"
+     x="54.628609"
+     y="59.234951"
+     ry="42.154171" />
+  <rect
+     style="opacity:1;fill:#2a9d8f;fill-opacity:1;stroke:#154f48;stroke-width:13.1718816;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.79527664;stroke-opacity:1;paint-order:normal"
+     id="rect822-4"
+     width="612.53662"
+     height="281.38828"
+     x="53.115429"
+     y="395.30383"
+     ry="42.154171" />
+  <rect
+     style="opacity:1;fill:#e9c46a;fill-opacity:1;stroke:#d19d1f;stroke-width:13.1718816;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.79527664;stroke-opacity:1;paint-order:normal"
+     id="rect822-4-9"
+     width="949.46191"
+     height="281.38828"
+     x="53.115475"
+     y="731.37262"
+     ry="42.154171" />
+  <rect
+     style="opacity:1;fill:#2a7494;fill-opacity:1;stroke:#143746;stroke-width:13.0448;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37.79527664;stroke-opacity:1;paint-order:normal"
+     id="rect822-3"
+     width="617.45721"
+     height="282.34122"
+     x="-676.69214"
+     y="720.23621"
+     ry="42.296932"
+     transform="rotate(-90)" />
+</svg>
