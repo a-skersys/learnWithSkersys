@@ -155,31 +155,27 @@ function Card(name1, name2, description, comparision, date) {
 }
 
 let data = [];
+const menu = document.getElementById("menu");
 
 fetch('https://learnwith.skersys.eu/data.json')
     .then((response) => response.json())
-    .then((json) => {data = json.data});
+    .then((json) => {
+        data = json.data
 
-const menu = document.getElementById("menu");
+        data.forEach(element => {
+            const index = data.indexOf(element);
+            const myData = data[index];
+            const newCard = new Card(myData[0], myData[1], myData[2], myData[3], myData[4]);
+            newCard.fill();
+        
+            const a = document.createElement('a');
+            a.setAttribute("href", `#${data[index][0]}${data[index][1]}`);
+            menu.appendChild(a);
+        
+            const li = document.createElement('li');
+            li.innerHTML = `<p><nobr><img src="logos/${data[index][0]}.svg" width="12px"> ${data[index][0]}</nobr> <span style="color: #999999">vs.</span> <nobr><img src="logos/${data[index][1]}.svg" width="12px">&nbsp;${data[index][1]}</nobr></p>`;
+            a.appendChild(li);
+        
+        });
 
-
-data.forEach(element => {
-    const index = data.indexOf(element);
-    const myData = data[index];
-    const newCard = new Card(myData[0], myData[1], myData[2], myData[3], myData[4]);
-    newCard.fill();
-
-    const a = document.createElement('a');
-    a.setAttribute("href", `#${data[index][0]}${data[index][1]}`);
-    menu.appendChild(a);
-
-    const li = document.createElement('li');
-    li.innerHTML = `<p><nobr><img src="logos/${data[index][0]}.svg" width="12px"> ${data[index][0]}</nobr> <span style="color: #999999">vs.</span> <nobr><img src="logos/${data[index][1]}.svg" width="12px">&nbsp;${data[index][1]}</nobr></p>`;
-    a.appendChild(li);
-
-});
-
-
-
-
-
+    });
