@@ -154,7 +154,7 @@ function Card(name1, name2, description, comparision, date) {
     }
 }
 
-let data;
+let data = [];
 
 fetch('https://learnwith.skersys.eu/data.json')
     .then((response) => response.json())
