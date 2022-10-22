@@ -23,7 +23,7 @@
                 [ "Great for responsive design", "y", "m" ],
                 [ "Overlapping elements", "m", "y" ],
                 [ "Two-directional", "n", "y"],
-                [ "Great for compex layouts", "n", "y"],
+                [ "Great for compex layouts", "n", "y"]
             ],
             "11.10.2022"
         ],
@@ -51,7 +51,7 @@
                 [ "Easy to learn", "m", "y" ],
                 [ "HTML besides JSX", "n", "y"],
                 [ "Two-way binding", "n", "y"],
-                [ "Small project size", "n", "y"],
+                [ "Small project size", "n", "y"]
             ],
             "04.10.2022"
         ]
