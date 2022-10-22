@@ -154,9 +154,10 @@ function Card(name1, name2, description, comparision, date) {
     }
 }
 
-let dataFile = require("data.json");
-const data = dataFile.data[0];
 
+fetch('https://learnwith.skersys.eu/data.json')
+    .then((response) => response.json())
+    .then((json) => console.log(json));
 
 const menu = document.getElementById("menu");
 
