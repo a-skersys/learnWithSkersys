@@ -154,14 +154,13 @@ function Card(name1, name2, description, comparision, date) {
     }
 }
 
+let data;
 
 fetch('https://learnwith.skersys.eu/data.json')
     .then((response) => response.json())
-    .then((json) => console.log(json));
+    .then((json) => {data = json.data});
 
 const menu = document.getElementById("menu");
-
-const data = json.data;
 
 
 data.forEach(element => {
