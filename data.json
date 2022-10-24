@@ -2,6 +2,21 @@
     [
 
         [
+            "GitHub Pages", "Netlify", "Static Web Hostings comparision",
+            [
+                [ "Unlimited build minutes", "y", "n" ],
+                [ "Free tier", "y", "y" ],
+                [ "Automated builds from Git", "y", "y" ],
+                [ "Compatible with static site generators", "m", "y" ],
+                [ "Free one-click SSL", "n", "y" ],
+                [ "Easy rollbacks", "n", "y" ],
+                [ "Repository can be private", "n", "y" ],
+                [ "Multiple domain names", "n", "y" ]
+            ],
+            "13.10.2022"
+        ],
+
+        [
             "CSS", "Sass", "CSS Layouts comparision",
             [
                 [ "Doesn't need compilation", "y", "n" ],
