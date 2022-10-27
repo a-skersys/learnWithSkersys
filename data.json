@@ -1,5 +1,18 @@
 { "data":
     [
+        [
+            "Front-End", "Back-End", "Development comparision",
+            [
+                [ "Focus on user-side of a website", "y", "n" ],
+                [ "HTML, CSS", "y", "n" ],
+                [ "Code writting", "y", "y" ],
+                [ "Communication with help of APIs", "y", "y" ],
+                [ "JavaScript", "y", "m" ],
+                [ "Python, PHP, Ruby", "m", "y" ],
+                [ "Focus on data and logic", "n", "y" ]
+            ],
+            "27.10.2022"
+        ],
 
         [
             "GitHub Pages", "Netlify", "Static Web Hostings comparision",
