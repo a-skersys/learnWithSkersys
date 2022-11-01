@@ -1,6 +1,26 @@
 { "data":
     [
         [
+            "React", "Angular", "Front-End Frameworks comparision",
+            [
+                [ "Easy learning curve", "y", "n" ],
+                [ "JSX", "y", "n" ],
+                [ "Virtual DOM", "y", "n" ],
+                [ "Reusable components", "y", "n" ],
+                [ "Flexible", "y", "m" ],
+                [ "Open Source", "y", "y" ],
+                [ "TypeScript", "m", "y" ],
+                [ "Bidirectional data binding", "n", "y" ],
+                [ "Built-in libraries", "n", "y" ]
+            ],
+            "01.11.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-development-frameworks-activity-6993114347283587072-pHlc",
+                "twitter": "https://twitter.com/ASkersys/status/1587348721817223169",
+            }
+        ],
+
+        [
             "Front-End", "Back-End", "Development comparision",
             [
                 [ "Focus on user-side of a website", "y", "n" ],
@@ -11,7 +31,11 @@
                 [ "Python, PHP, Ruby", "m", "y" ],
                 [ "Focus on data and logic", "n", "y" ]
             ],
-            "27.10.2022"
+            "27.10.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-backend-development-activity-6991286960707231744-m_7a",
+                "twitter": "https://twitter.com/ASkersys/status/1585521334846689280",
+            }
         ],
 
         [
@@ -26,7 +50,11 @@
                 [ "Repository can be private", "n", "y" ],
                 [ "Multiple domain names", "n", "y" ]
             ],
-            "13.10.2022"
+            "25.10.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-learnwithskersys-github-activity-6991299961258663936-KMMu",
+                "twitter": "https://twitter.com/ASkersys/status/1585534335280680963",
+            }
         ],
 
         [
