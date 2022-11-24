@@ -1,13 +1,75 @@
 { "data":
     [
         [
-            "React", "Angular", "Front-End Frameworks comparision",
+            "npm",
+            "Yarn",
+            "Package manager comparison",
+            [
+                [ "Less disc space is needed", "y", "n"],
+                [ "Automatically generated version lock file", "y", "y" ],
+                [ "Workspaces support", "y", "y" ],
+                [ "Security", "m", "y"],
+                [ "License check", "n", "y"],
+                [ "Plug'n'Play feature", "n", "y"],
+                [ "Zero-Install feature", "n", "y"],
+                [ "Packages are installed in parallel", "n", "y"]
+            ],
+            "24.11.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-learnwithskersys-github-activity-6991299961258663936-KMMu",
+                "twitter": "https://twitter.com/ASkersys/status/1585534335280680963"
+            }
+        ],
+
+        [
+            "Bootstrap",
+            "Tailwind CSS",
+            "CSS Framework comparison",
+            [
+                [ "Older and more popular", "y", "n"],
+                [ "Pre-built components", "y", "n"],
+                [ "Responsiveness oriented", "y", "m"],
+                [ "Eliminates unused classes", "n", "y"],
+                [ "Small project size", "n", "y" ],
+                [ "Unique design", "n", "y" ],
+                [ "Flexibility", "n", "y"]
+            ],
+            "14.11.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-learnwithskersys-github-activity-6991299961258663936-KMMu",
+                "twitter": "https://twitter.com/ASkersys/status/1585534335280680963"
+            }
+        ],
+        
+        [
+            "freeCodeCamp",
+            "The Odin Project",
+            "Web Development Learning Resouces comparison",
+            [
+                [ "Learning in browser enviroment", "y", "n"],
+                [ "Certifications after completion", "y", "n"],
+                [ "Python course", "y", "n" ],
+                [ "HTML, CSS, JavaScript courses", "y", "y" ],
+                [ "Free and open source", "y", "y" ],
+                [ "In-depth learning material", "m", "y"],
+                [ "Ruby course", "n", "y" ],
+                [ "Learning in real life enviroment", "n", "y"]
+            ],
+            "09.11.2022",
+            {
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-learnwithskersys-github-activity-6991299961258663936-KMMu",
+                "twitter": "https://twitter.com/ASkersys/status/1585534335280680963"
+            }
+        ],
+
+        [
+            "React", "Angular", "Front-End Frameworks comparison",
             [
                 [ "Easy learning curve", "y", "n" ],
                 [ "JSX", "y", "n" ],
                 [ "Virtual DOM", "y", "n" ],
-                [ "Reusable components", "y", "n" ],
                 [ "Flexible", "y", "m" ],
+                [ "Reusable components", "y", "y" ],
                 [ "Open Source", "y", "y" ],
                 [ "TypeScript", "m", "y" ],
                 [ "Bidirectional data binding", "n", "y" ],
@@ -15,13 +77,13 @@
             ],
             "01.11.2022",
             {
-                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-development-frameworks-activity-6993114347283587072-pHlc",
-                "twitter": "https://twitter.com/ASkersys/status/1587348721817223169"
+                "linkedIn": "https://www.linkedin.com/posts/audrius-skersys-9a812b20b_frontend-development-frameworks-activity-6993829177787301888--Cjm/",
+                "twitter": "https://twitter.com/ASkersys/status/1588063551876481026"
             }
         ],
 
         [
-            "Front-End", "Back-End", "Development comparision",
+            "Front-End", "Back-End", "Development comparison",
             [
                 [ "Focus on user-side of a website", "y", "n" ],
                 [ "HTML, CSS", "y", "n" ],
@@ -39,7 +101,7 @@
         ],
 
         [
-            "GitHub Pages", "Netlify", "Static Web Hostings comparision",
+            "GitHub Pages", "Netlify", "Static Web Hostings comparison",
             [
                 [ "Unlimited build minutes", "y", "n" ],
                 [ "Free tier", "y", "y" ],
@@ -58,7 +120,7 @@
         ],
 
         [
-            "CSS", "Sass", "CSS Layouts comparision",
+            "CSS", "Sass", "CSS Layouts comparison",
             [
                 [ "Doesn't need compilation", "y", "n" ],
                 [ "Easy to use", "y", "m" ],
@@ -73,7 +135,7 @@
         [
             "Flexbox",
             "Grid",
-            "CSS layouts comparision",
+            "CSS layouts comparison",
             [
                 [ "Expands with content", "y", "n" ],
                 [ "Great for responsive design", "y", "m" ],
@@ -85,21 +147,22 @@
         ],
 
         [
-            "JavaScript", "TypeScript", "Programming Languages comparision",
+            "JavaScript", "TypeScript", "Programming Languages comparison",
             [
                 [ "More information available", "y", "n" ],
                 [ "Doesn't have to be compiled", "y", "n" ],
+                [ "Is used in React", "y", "m" ],
                 [ "Easy to debug", "m", "y" ],
                 [ "Suitable for complex applications", "n", "y"],
                 [ "Fully compatible", "n", "y"] ,
                 [ "Static typing", "n", "y" ],
-                [ "Is used in most popular frameworks", "n", "y" ]
+                [ "Is used in Angular", "n", "y" ]
             ],
             "06.10.2022"
         ],
 
         [
-            "React", "Vue", "Frontend Frameworks comparision",
+            "React", "Vue", "Frontend Frameworks comparison",
             [
                 [ "Popular in job market", "y", "n" ],
                 [ "Scalable to large projects", "y", "m" ],
