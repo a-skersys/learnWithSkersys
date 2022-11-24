@@ -101,7 +101,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    border-radius: 0.5em;
+    /* border-radius: 0.5em; */
     box-shadow: 0.1em 0.1em 0.5em var(--shadow);
 }
 
@@ -135,7 +135,7 @@ header p {
 main {
     display: grid;
     grid-template-columns: 12em 7em 7em 0.5em;
-    grid-template-rows: 10em 1fr 0em;
+    grid-template-rows: 9.5em 1fr 0em;
 }
 
 .title {
@@ -177,16 +177,17 @@ main {
 .logo > img {
     width: 100%;
     object-fit: contain;
-    margin-bottom: 1em;
     position: relative;
     z-index: 3;
     border-radius: 10px;
 }
 
 .logo > p {
-    font-size: 1em;
+    font-size: 0.8em;
     text-align: center;
-    margin: 0.5em;
+    /* background: #fdfdfd; */
+    border-radius: 0.8em;
+    padding: 0.3em 0.4em;
     font-weight: 600;
 }
 
@@ -290,6 +291,7 @@ ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: 1.2em;
 }
 
 .tags a {
@@ -297,9 +299,26 @@ ul {
     text-decoration: none;
 }
 
+.date {
+    font-weight: 200;
+}
+
 .download {
     padding: 0.5em 1em;
     border-radius: 0.5em;
+}
+
+.download:hover {
+    background-color: var(--secondary);
+}
+
+.social {
+    padding: 0.5em 0.5em;
+    border-radius:50%;
+}
+
+.social:hover {
+    background-color: var(--secondary);
 }
 
 .footer {
@@ -325,9 +344,6 @@ ul {
     color: white;
 }
 
-.download:hover {
-    background-color: var(--secondary);
-}
 
 .fa-circle {
     color: white;
